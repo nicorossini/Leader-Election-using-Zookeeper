@@ -14,15 +14,6 @@ It is a simple Java application (Maven project) where multiple instances connect
   - `I am not the leader`
   - `Znode name: ...`
 
----
-
-## 🛠️ Requirements
-- Java **17 or later** (tested with Java 24, but LTS recommended)
-- Apache ZooKeeper **3.8+**
-- Maven **3.9+**
-
----
-
 ## Getting Started
 
 ### 1. Start ZooKeeper locally
@@ -48,7 +39,7 @@ mvn exec:java
 
 ---
 
-## 📖 Example Output
+## Example Output
 When running multiple instances, one will become leader:
 
 ```
