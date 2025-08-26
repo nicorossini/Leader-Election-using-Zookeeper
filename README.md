@@ -24,7 +24,7 @@ bin/zkServer.sh start
 ### 2. Clone this repository
 ```bash
 git clone https://github.com/nicorossini/Leader-Election-using-Zookeeper.git
-cd Leader-Election-using-Zookeeper
+cd zookeeper-leader-election
 ```
 
 ### 3. Build the project
